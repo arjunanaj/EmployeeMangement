@@ -1,2 +1,2 @@
 # EmployeeMangement
-Spring JDBC to perform crud operation to store data in database
+In the project i use Spring JDBC to perform basic crud operation to store and retrieve the employee data from database.
